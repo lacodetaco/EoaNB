@@ -1,0 +1,111 @@
+## This file is for all idea sprite declarations for zone d ideas
+
+spiriteTypes = {
+
+  ### Korea
+    spriteType = {
+      name = "GFX_idea_KOR_sadeo_politics"
+      texturefile = "gfx/interface/ideas/KOR/KOR_sadeo_politics.dds"
+    }
+    spriteType = {
+      name = "GFX_idea_KOR_andong_kim_clan"
+      texturefile = "gfx/interface/ideas/KOR/KOR_andong_kim_clan.dds"
+    }
+    spriteType = {
+      name = "GFX_idea_KOR_hermit_kingdom"
+      texturefile = "gfx/interface/ideas/KOR/KOR_hermit_kingdom.dds"
+    }
+    spriteType = {
+      name = "GFX_idea_KOR_way_of_heaven"
+      texturefile = "gfx/interface/ideas/KOR/KOR_way_of_heaven.dds"
+    }
+
+  ### Japan
+    spriteType = {
+			name = "GFX_idea_JAP_tozama_domains"
+			texturefile = "gfx/interface/ideas/JAP/JAP_tozama_domains.dds"
+		}
+
+    # Theorists
+      spriteType = {
+        name = "GFX_idea_theorist_japan_cmo"
+        texturefile = "gfx/interface/ideas/JAP/theorists/JAP_meterology.dds"
+      }
+
+  ### Choshu
+    spriteType = {
+			name = "GFX_idea_CHO_anti_buddhist_sentiments"
+			texturefile = "gfx/interface/ideas/JAP/CHO/CHO_anti_buddhist_sentiments.dds"
+		}
+    spriteType = {
+			name = "GFX_idea_CHO_choshu_clique"
+			texturefile = "gfx/interface/ideas/JAP/CHO/CHO_choshu_clique.dds"
+		}
+    spriteType = {
+			name = "GFX_idea_CHO_the_four_whites"
+			texturefile = "gfx/interface/ideas/JAP/CHO/CHO_the_four_whites.dds"
+		}
+		spriteType = {
+			name = "GFX_idea_CHO_koshinikata_office"
+			texturefile = "gfx/interface/ideas/JAP/CHO/CHO_koshinikata_office.dds"
+		}
+
+    # Advisors
+      spriteType = {
+        name = "GFX_idea_CHO_Thomas_blake_glover"
+        texturefile = "gfx/interface/ideas/JAP/CHO/Advisors/CHO_thomas_blake_glover.dds"
+      }
+      spriteType = {
+        name = "GFX_idea_CHO_yamao_yozo"
+        texturefile = "gfx/interface/ideas/JAP/CHO/Advisors/CHO_yamao_yozo.dds"
+      }
+      SpriteType = {
+        name = "GFX_idea_CHO_endo_kinsuke"
+        texturefile = "gfx/interface/ideas/JAP/CHO/Advisors/CHO_endo_kinsuke.dds"
+      }
+      SpriteType = {
+        name = "GFX_idea_CHO_nomura_yakichi"
+        texturefile = "gfx/interface/ideas/JAP/CHO/Advisors/CHO_nomura_yakichi.dds"
+      }
+      SpriteType = {
+        name = "GFX_idea_CHO_ito_hirobumi"
+        texturefile = "gfx/interface/ideas/JAP/CHO/Advisors/CHO_ito_hirobumi.dds"
+      }
+      SpriteType = {
+        name = "GFX_idea_CHO_inoue_kaoru"
+        texturefile = "gfx/interface/ideas/JAP/CHO/Advisors/CHO_inoue_kaoru.dds"
+      }
+
+  ### Date
+    spriteType = {
+			name = "GFX_idea_DTE_hermits_of_the_mountain"
+			texturefile = "gfx/interface/ideas/JAP/DTE/DTE_hermits_of_the_mountain.dds"
+		}
+		spriteType = {
+			name = "GFX_idea_DTE_medical_school"
+			texturefile = "gfx/interface/ideas/JAP/DTE/DTE_medical_school.dds"
+		}
+		spriteType = {
+			name = "GFX_idea_DTE_strained_finances"
+			texturefile = "gfx/interface/ideas/JAP/DTE/DTE_strained_finances.dds"
+		}
+
+  ### Tokugawa
+    spriteType = {
+			name = "GFX_idea_TSH_kabunakama_monopoly"
+			texturefile = "gfx/interface/ideas/JAP/TSH/TSH_kabunakama_monopoly.dds"
+		}
+    spriteType = {
+			name = "GFX_idea_TSH_unpopular_shogun"
+			texturefile = "gfx/interface/ideas/JAP/TSH/TSH_unpopular_shogun.dds"
+		}
+    spriteType = {
+			name = "GFX_idea_TSH_shihaisho_development"
+			texturefile = "gfx/interface/ideas/JAP/TSH/TSH_shihaisho_development.dds"
+		}
+    spriteType = {
+			name = "GFX_idea_TSH_kaiseito"
+			texturefile = "gfx/interface/ideas/JAP/TSH/TSH_kaiseito.dds"
+		}
+
+}

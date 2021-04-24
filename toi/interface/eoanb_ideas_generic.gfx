@@ -1,0 +1,25 @@
+## This file is for all idea sprite declarations for generic ideas
+
+spiriteTypes = {
+  ### Trade
+    spriteType = {
+			name = "GFX_idea_foreign_trade"
+			texturefile = "gfx/interface/ideas/generic/foreign_trade.dds"
+		}
+    spriteType = {
+			name = "GFX_idea_instability"
+			texturefile = "gfx/interface/ideas/generic/instability.dds"
+		}
+    spriteType = {
+			name = "GFX_idea_meterology"
+			texturefile = "gfx/interface/ideas/generic/meterology.dds"
+		}
+    spriteType = {
+			name = "GFX_idea_meterology_1"
+			texturefile = "gfx/interface/ideas/generic/meterology_1.dds"
+		}
+    spriteType = {
+			name = "GFX_idea_fiscal_crisis"
+			texturefile = "gfx/interface/ideas/generic/fiscal_crisis.dds"
+		}
+}

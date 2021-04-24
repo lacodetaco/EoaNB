@@ -8,23 +8,23 @@ spriteTypes = {
 	#### Generic continuous goal icons
 
 	SpriteType = {
-	name = "GFX_goal_continuous_air_production"
-	texturefile = "gfx/interface/goals/goal_continuous_air_production.dds"
+		name = "GFX_goal_continuous_air_production"
+		texturefile = "gfx/interface/goals/goal_continuous_air_production.dds"
 	}
 
 	SpriteType = {
-	name = "GFX_goal_continuous_non_factory_construct"
-	texturefile = "gfx/interface/goals/goal_continuous_non_factory_construct.dds"
+		name = "GFX_goal_continuous_non_factory_construct"
+		texturefile = "gfx/interface/goals/goal_continuous_non_factory_construct.dds"
 	}
  
 	SpriteType = {
-	name = "GFX_goal_continuous_reduce_training_time"
-	texturefile = "gfx/interface/goals/goal_continuous_reduce_training_time.dds"
+		name = "GFX_goal_continuous_reduce_training_time"
+		texturefile = "gfx/interface/goals/goal_continuous_reduce_training_time.dds"
 	}
 
 	SpriteType = {
-	name = "GFX_goal_continuous_boost_freedom"
-	texturefile = "gfx/interface/goals/goal_continuous_boost_freedom.dds"
+		name = "GFX_goal_continuous_boost_freedom"
+		texturefile = "gfx/interface/goals/goal_continuous_boost_freedom.dds"
 	}
 
 	SpriteType = {
@@ -1197,6 +1197,7 @@ spriteTypes = {
 	}
 
 	### JAPAN
+
 	SpriteType = {
 		name = "GFX_goal_focus_adopt_international_exchange_rates"
 		texturefile = "gfx/interface/goals/japan/focus_adopt_international_exchange_rates.dds"
@@ -5957,158 +5958,159 @@ spriteTypes = {
 	}
 	
 	# Japan
-	SpriteType = {
-		name = "GFX_goal_JAP_Han_Currency"
-		texturefile = "gfx/interface/goals/japan/JAP_Han_Currency.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_JAP_Mexican_Pesos"
-		texturefile = "gfx/interface/goals/japan/JAP_Mexican_Pesos.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_JAP_agree_to_trade"
-		texturefile = "gfx/interface/goals/japan/focus_JAP_agree_to_trade.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_JAP_k"
-		texturefile = "gfx/interface/goals/japan/focus_JAP_k.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_JAP_katana_production"
-		texturefile = "gfx/interface/goals/japan/focus_JAP_katana_production.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_JAP_kor-jap_alliance"
-		texturefile = "gfx/interface/goals/japan/focus_JAP_kor-jap_alliance.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_JAP_path_of_wisdom"
-		texturefile = "gfx/interface/goals/japan/focus_JAP_path_of_wisdom.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_JAP_reject_opium"
-		texturefile = "gfx/interface/goals/japan/focus_JAP_reject_opium.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_JAP_samurai_never_surrender"
-		texturefile = "gfx/interface/goals/japan/focus_JAP_samurai_never_surrender.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_JAP_samurai_tactics"
-		texturefile = "gfx/interface/goals/japan/focus_JAP_samurai_tactics.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_JAP_science_eng_navy"
-		texturefile = "gfx/interface/goals/japan/focus_JAP_science_eng_navy.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_JAP_science_fra_chem"
-		texturefile = "gfx/interface/goals/japan/focus_JAP_science_fra_chem.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_JAP_science_hol_bio"
-		texturefile = "gfx/interface/goals/japan/focus_JAP_science_hol_bio.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_JAP_science_usa_ind"
-		texturefile = "gfx/interface/goals/japan/focus_JAP_science_usa_ind.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_rangaku"
-		texturefile = "gfx/interface/goals/japan/focus_JAP_rangaku.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_rice_farm_expation"
-		texturefile = "gfx/interface/goals/japan/focus_rice_farm_expation.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_choshu_aid"
-		texturefile = "gfx/interface/goals/japan/JAP_choshu_aid_focus.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_saga_aid"
-		texturefile = "gfx/interface/goals/japan/saga_aid_focus.dds"
-	}
-    	SpriteType = {
-		name = "GFX_goal_focus_satsuma_aid"
-		texturefile = "gfx/interface/goals/japan/satsuma_aid_focus.dds"
-	}
-	SpriteType = {
-		name = "GFX_goal_focus_tosa_aid"
-		texturefile = "gfx/interface/goals/japan/tosa_aid_focus.dds"
-	}
 		SpriteType = {
-		name = "GFX_goal_focus_tozama_aid"
-		texturefile = "gfx/interface/goals/japan/tozama_aid_focus.dds"
-	}
-	SpriteType = {
-	    name = "GFX_goal_focus_sword_of_the_shogun"
-	    texturefile = "gfx/interface/goals/japan/focus_sword_of_the_shogun.dds"
-	}
-	SpriteType = {
-	    name = "GFX_goal_focus_issue_unbacked_notes"
-	    texturefile = "gfx/interface/goals/japan/focus_issue_unbacked_notes.dds"
-	}
-	SpriteType = {
-	    name = "GFX_goal_focus_return_to_weight_based_system"
-	    texturefile = "gfx/interface/goals/japan/focus_return_to_weight_based_system.dds"
-	}
-	SpriteType = {
-	    name = "GFX_goal_japan_foreign_expertise"
-	    texturefile = "gfx/interface/goals/japan/foreign_expertise.dds"
-	}
-	SpriteType = {
-	    name = "GFX_goal_japan_fund_training_schools"
-	    texturefile = "gfx/interface/goals/japan/fund_training_schools.dds"
-	}
-	SpriteType = {
-	    name = "GFX_focus_JAP_daimyo_lords"
-	    texturefile = "gfx/interface/goals/japan/focus_JAP_daimyo_lords.dds"
-	}
-	SpriteType = {
-	    name = "GFX_focus_JAP_naval_modernization"
-	    texturefile = "gfx/interface/goals/japan/focus_JAP_naval_modernization.dds"
-	}
-	SpriteType = {
-	    name = "GFX_focus_JAP_naval_modernization_2"
-	    texturefile = "gfx/interface/goals/japan/focus_JAP_naval_modernization_2.dds"
-	}
-	SpriteType = {
-	    name = "GFX_focus_JAP_preindustrial_ovens"
-	    texturefile = "gfx/interface/goals/japan/focus_JAP_preindustrial_ovens.dds"
-	}
-	SpriteType = {
-	    name = "GFX_focus_JAP_tokugawa_banner"
-	    texturefile = "gfx/interface/goals/japan/focus_JAP_tokugawa_banner.dds"
-	}
-	SpriteType = {
-	    name = "GFX_focus_JAP_tokugawa_crest"
-	    texturefile = "gfx/interface/goals/japan/focus_JAP_tokugawa_crest.dds" 
-	}
-	SpriteType = {
-	    name = "GFX_focus_JAP_tokugawa_crest_burn"
-	    texturefile = "gfx/interface/goals/japan/focus_JAP_tokugawa_crest_burn.dds"
-	}
-	SpriteType = {
-	    name = "GFX_focus_JAP_tokugawa_crest_fractured"
-	    texturefile = "gfx/interface/goals/japan/focus_JAP_tokugawa_crest_fractured.dds"
-	}
-	SpriteType = {
-	    name = "GFX_focus_JAP_wooden_cannon"
-	    texturefile = "gfx/interface/goals/japan/focus_JAP_wooden_cannon.dds"
-	}
-	SpriteType = {
-	    name = "GFX_focus_JAP_unite_japan"
-	    texturefile = "gfx/partnership-gfx/Mei's GFX/goals/goals_JAP_unite_JAP.dds"
-	}
-	SpriteType = {
-	    name = "GFX_focus_JAP_imperial_restoration"
-	    texturefile = "gfx/partnership-gfx/Mei's GFX/goals/goals_JAP_imperial_restoration.dds"
-	}
-	SpriteType = {
-	    name = "GFX_focus_tsh_money_guilds"
-	    texturefile = "gfx/interface/goals/general/tsh_money_guilds.dds"
-	}
+			name = "GFX_goal_JAP_Han_Currency"
+			texturefile = "gfx/interface/goals/japan/JAP_Han_Currency.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_JAP_Mexican_Pesos"
+			texturefile = "gfx/interface/goals/japan/JAP_Mexican_Pesos.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_JAP_agree_to_trade"
+			texturefile = "gfx/interface/goals/japan/focus_JAP_agree_to_trade.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_JAP_k"
+			texturefile = "gfx/interface/goals/japan/focus_JAP_k.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_JAP_katana_production"
+			texturefile = "gfx/interface/goals/japan/focus_JAP_katana_production.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_JAP_kor-jap_alliance"
+			texturefile = "gfx/interface/goals/japan/focus_JAP_kor-jap_alliance.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_JAP_path_of_wisdom"
+			texturefile = "gfx/interface/goals/japan/focus_JAP_path_of_wisdom.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_JAP_reject_opium"
+			texturefile = "gfx/interface/goals/japan/focus_JAP_reject_opium.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_JAP_samurai_never_surrender"
+			texturefile = "gfx/interface/goals/japan/focus_JAP_samurai_never_surrender.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_JAP_samurai_tactics"
+			texturefile = "gfx/interface/goals/japan/focus_JAP_samurai_tactics.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_JAP_science_eng_navy"
+			texturefile = "gfx/interface/goals/japan/focus_JAP_science_eng_navy.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_JAP_science_fra_chem"
+			texturefile = "gfx/interface/goals/japan/focus_JAP_science_fra_chem.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_JAP_science_hol_bio"
+			texturefile = "gfx/interface/goals/japan/focus_JAP_science_hol_bio.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_JAP_science_usa_ind"
+			texturefile = "gfx/interface/goals/japan/focus_JAP_science_usa_ind.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_rangaku"
+			texturefile = "gfx/interface/goals/japan/focus_JAP_rangaku.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_rice_farm_expation"
+			texturefile = "gfx/interface/goals/japan/focus_rice_farm_expation.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_choshu_aid"
+			texturefile = "gfx/interface/goals/japan/JAP_choshu_aid_focus.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_saga_aid"
+			texturefile = "gfx/interface/goals/japan/saga_aid_focus.dds"
+		}
+				SpriteType = {
+			name = "GFX_goal_focus_satsuma_aid"
+			texturefile = "gfx/interface/goals/japan/satsuma_aid_focus.dds"
+		}
+		SpriteType = {
+			name = "GFX_goal_focus_tosa_aid"
+			texturefile = "gfx/interface/goals/japan/tosa_aid_focus.dds"
+		}
+			SpriteType = {
+			name = "GFX_goal_focus_tozama_aid"
+			texturefile = "gfx/interface/goals/japan/tozama_aid_focus.dds"
+		}
+		SpriteType = {
+				name = "GFX_goal_focus_sword_of_the_shogun"
+				texturefile = "gfx/interface/goals/japan/focus_sword_of_the_shogun.dds"
+		}
+		SpriteType = {
+				name = "GFX_goal_focus_issue_unbacked_notes"
+				texturefile = "gfx/interface/goals/japan/focus_issue_unbacked_notes.dds"
+		}
+		SpriteType = {
+				name = "GFX_goal_focus_return_to_weight_based_system"
+				texturefile = "gfx/interface/goals/japan/focus_return_to_weight_based_system.dds"
+		}
+		SpriteType = {
+				name = "GFX_goal_japan_foreign_expertise"
+				texturefile = "gfx/interface/goals/japan/foreign_expertise.dds"
+		}
+		SpriteType = {
+				name = "GFX_goal_japan_fund_training_schools"
+				texturefile = "gfx/interface/goals/japan/fund_training_schools.dds"
+		}
+		SpriteType = {
+				name = "GFX_focus_JAP_daimyo_lords"
+				texturefile = "gfx/interface/goals/japan/focus_JAP_daimyo_lords.dds"
+		}
+		SpriteType = {
+				name = "GFX_focus_JAP_naval_modernization"
+				texturefile = "gfx/interface/goals/japan/focus_JAP_naval_modernization.dds"
+		}
+		SpriteType = {
+				name = "GFX_focus_JAP_naval_modernization_2"
+				texturefile = "gfx/interface/goals/japan/focus_JAP_naval_modernization_2.dds"
+		}
+		SpriteType = {
+				name = "GFX_focus_JAP_preindustrial_ovens"
+				texturefile = "gfx/interface/goals/japan/focus_JAP_preindustrial_ovens.dds"
+		}
+		SpriteType = {
+				name = "GFX_focus_JAP_tokugawa_banner"
+				texturefile = "gfx/interface/goals/japan/focus_JAP_tokugawa_banner.dds"
+		}
+		SpriteType = {
+				name = "GFX_focus_JAP_tokugawa_crest"
+				texturefile = "gfx/interface/goals/japan/focus_JAP_tokugawa_crest.dds" 
+		}
+		SpriteType = {
+				name = "GFX_focus_JAP_tokugawa_crest_burn"
+				texturefile = "gfx/interface/goals/japan/focus_JAP_tokugawa_crest_burn.dds"
+		}
+		SpriteType = {
+				name = "GFX_focus_JAP_tokugawa_crest_fractured"
+				texturefile = "gfx/interface/goals/japan/focus_JAP_tokugawa_crest_fractured.dds"
+		}
+		SpriteType = {
+				name = "GFX_focus_JAP_wooden_cannon"
+				texturefile = "gfx/interface/goals/japan/focus_JAP_wooden_cannon.dds"
+		}
+		SpriteType = {
+				name = "GFX_focus_JAP_unite_japan"
+				texturefile = "gfx/partnership-gfx/Mei's GFX/goals/goals_JAP_unite_JAP.dds"
+		}
+		SpriteType = {
+				name = "GFX_focus_JAP_imperial_restoration"
+				texturefile = "gfx/partnership-gfx/Mei's GFX/goals/goals_JAP_imperial_restoration.dds"
+		}
+		SpriteType = {
+				name = "GFX_focus_tsh_money_guilds"
+				texturefile = "gfx/interface/goals/general/tsh_money_guilds.dds"
+		}
+	# USA
 	SpriteType = {
 	    name = "GFX_focus_generic_attack_csa"
 	    texturefile = "gfx/interface/goals/general/focus_generic_attack_csa.dds"
